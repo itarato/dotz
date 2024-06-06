@@ -1,1 +1,1 @@
-Educational particle mechanics project. Implements sand, water and fire.
+Educational particle mechanics project. Implements sand, stone and water.
